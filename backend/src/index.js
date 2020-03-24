@@ -1,8 +1,12 @@
 const express = require('express');
+const routes = require('./routes');
 
 const app = express();
 
 app.use(express.json());
+app.use(routes);
+
+app.listen(3333);
 
 /**
  * Rota / Recurso
@@ -25,15 +29,15 @@ app.use(express.json());
  * Request Body: Corpo da requisição, utilizado para criar ou alterar recursos
  */
 
-app.post('/users', (request, response) => {
-    const body = request.body;
+/**
+ * SQL: MySQL, SQLite, PostgreSQL, Oracle, Microsoft SQL Server
+ * NoSQL: MongoDB, CoughDB, etc
+ */
 
-    console.log(body);
+/**
+ * Driver: SELECT * FROM users
+ * Query Builder: table('users').select('*').where()
+ */
 
-    return response.json({
-        evento: 'Semana Omnistack 11.0',
-        aluno: 'Mauro'
-    });
-});
 
-app.listen(3333);
+
