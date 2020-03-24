@@ -32,7 +32,7 @@ app.post('/users', (request, response) => {
 
     return response.json({
         evento: 'Semana Omnistack 11.0',
-        aluno: 'Lucas Mauro'
+        aluno: 'Mauro'
     });
 });
 
