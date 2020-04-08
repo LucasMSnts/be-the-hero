@@ -1,5 +1,6 @@
 # Be The Hero 🦸‍♂️
-Projeto da semana OmniStack 11.0
+
+Be The Hero é um projeto da semana OmniStack 11.0, administrada pela [Rocketseat](https://rocketseat.com.br/), que visa conectar pessoas dispostas a doar à ONGs que precisam de ajuda.
 
 ## Tecnologias 💻
 
@@ -10,7 +11,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [Knex](http://knexjs.org/)
 
-## Iniciando projetos 
+## Iniciando as partes do projeto 
 Primeiro, fazer um clone do projeto:
 ```
   git clone https://github.com/LucasMSnts/be-the-hero.git
