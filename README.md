@@ -1,7 +1,7 @@
-# Be The Hero
+# Be The Hero 🦸‍♂️
 Projeto da semana OmniStack 11.0
 
-## Tecnologias
+## Tecnologias 💻
 
 Projeto desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
@@ -10,7 +10,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [Knex](http://knexjs.org/)
 
-## Iniciando projetos
+## Iniciando projetos 
 Primeiro, fazer um clone do projeto:
 ```
   git clone https://github.com/LucasMSnts/be-the-hero.git
