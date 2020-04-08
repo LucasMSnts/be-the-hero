@@ -19,7 +19,7 @@ Depois de clonado, acesse as pastas (backend, frontend e mobile) e execute o seg
 ```
   npm install
 ```
-Quando terminar de carregar os arquivos do node_modules, executar:
+Quando terminar de carregar os arquivos do ```node_modules```, executar:
 ```
   npm start
 ```
